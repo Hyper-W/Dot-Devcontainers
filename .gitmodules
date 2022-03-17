@@ -1,0 +1,18 @@
+[submodule "CSharp"]
+	path = CSharp
+	url = git@github.com:Hyper-W/Dot-CSharp-Devcontainers.git
+[submodule "C"]
+	path = C
+	url = git@github.com:Hyper-W/Dot-C-Devcontainers.git
+[submodule "Java"]
+	path = Java
+	url = git@github.com:Hyper-W/Dot-Java-Devcontainers.git
+[submodule "Python3"]
+	path = Python3
+	url = git@github.com:Hyper-W/Dot-Python3-Devcontainers.git
+[submodule "Ruby"]
+	path = Ruby
+	url = git@github.com:Hyper-W/Dot-Ruby-Devcontainers.git
+[submodule "Perl"]
+	path = Perl
+	url = git@github.com:Hyper-W/Dot-Perl-Devcontainers.git
